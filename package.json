@@ -1,0 +1,15 @@
+{
+  "name": "Create-TestCase-Using-Cypress-Cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hoanglong16297/Create-TestCase-Using-Cypress-Cucumber.git",
+  "author": "hoanglong160297 <hoanglong160297@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.17.4",
+    "prettier": "3.0.2"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.4.0"
+  }
+}
